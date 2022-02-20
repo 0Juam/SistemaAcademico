@@ -1,2 +1,2 @@
 # SistemaAcademico
-Atividade 01 Classes e Objetos
+Projeto para aprendizado. Aulas de DS. Professor Jackson
